@@ -72,7 +72,8 @@
 }
 
 .content .name {
-    font-size: 40px;
+    color: #fcfcfc;
+    font-size: 25px;
     text-transform: uppercase;
     font-weight: bold;
     opacity: 0;
@@ -129,4 +130,8 @@
 .button button:hover {
     background: #ababab;
     color: #ffff;
+}
+
+.image1 {
+    object-fit: fill;
 }
